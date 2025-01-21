@@ -34,12 +34,12 @@ Step-by-step explanation of how to get a development environment running:
 2. Navigate into the project directory:
 
    ```bash
-cd recommendation-system
+   cd recommendation-system
 
 3. Install the required dependencies:
 
     ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 Built With
 pandas - Python library for data manipulation and analysis
